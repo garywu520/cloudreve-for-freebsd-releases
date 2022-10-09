@@ -1,2 +1,1 @@
-# cloudreve-for-freebsd
-cloudreve binary releases for freebsd
+本项目基于FreeBSD进行编译，编译后适用于FreeBSD amd64(x86_64架构)，没有编译条件的，可下载使用！
