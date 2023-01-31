@@ -3,7 +3,7 @@
 
 ```
 Cloudreve Version: V3.6.2-1-g8dafb4f
-md5: fc04312dbd859f13f68b3462e7d90c5c
+md5: 0805aa5bb7640189c56a49bb75cdc818
 ```
 
 <br>
